@@ -1,0 +1,15 @@
+# OS-generated files
+.DS_Store
+
+# Mac & Linux extensionless binaries (Block everything except source files and folders)
+*
+!*./
+!*.*
+!README.md
+!.gitignore
+
+# Specific C build artifacts & extensions
+*.out
+*.o
+*.exe
+*.dSYM/
