@@ -1,0 +1,18 @@
+# C Programming Journey 🚀
+
+Welcome to my C programming repository! This repository contains my structured practice codes, problem-solving journey, and topic-wise implementation in C.
+
+## 📁 Repository Structure
+
+- `01_if_else/` - Basic control flow and conditions
+- `02_function/` - Modular programming with functions
+- `03_array/` - 1D and 2D Array implementations
+- `04_string/` - String manipulation and operations
+- `05_recursion/` - Recursive problem solving
+- `06_sorting/` - Basic and advanced sorting algorithms
+- `07_file_handling/` - File I/O operations
+- `08_structure/` - Custom data structures using `struct`
+- `09_codeforces/` - Competitive programming solutions
+
+---
+*Maintained by [Rabiul Hasan Abir](https://github.com/abir-imato)*
