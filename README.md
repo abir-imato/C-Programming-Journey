@@ -1,16 +1,15 @@
 cat > README.md << 'EOF'
 # Codeforces Solutions
 
-A collection of my solutions to [Codeforces](https://codeforces.com/) problems, written primarily in C.
+A collection of my c programming journey.
 
 ## Structure
 
-Each file is named after its corresponding problem (e.g. `A_Theatre_Square.c`), making it easy to navigate and cross-reference with the problem statement on Codeforces.
+Each file is named after its corresponding problem, making it easy to navigate and cross-reference with the problem statement on Codeforces.
 
 ## Languages
 
 - C
-- Python (where applicable)
 
 ## How to Run
 
